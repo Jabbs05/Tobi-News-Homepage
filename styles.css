@@ -251,7 +251,7 @@ aside{
         z-index:4;
         transition: 0.5s;
         background-color: hsl(0, 0%, 100%);
-        box-shadow:  -200px 0px 43px -9px rgba(0,0,0,0.39);
+        box-shadow:  -123px 0px 43px -9px rgba(0,0,0,0.39);
     }
     .burger ul{
         list-style:none;
